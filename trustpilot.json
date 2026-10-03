@@ -1,0 +1,76 @@
+{
+  "rating": 4.3,
+  "count": 42,
+  "reviews": [
+    {
+    "stars": 5,
+    "title": "Livraison rapide même si c’est loin...top",
+    "text": "Livraison rapide même si c’est loin (Réunion)",
+    "author": "françois legros",
+    "date": "2026-05-11"
+  },
+  {
+    "stars": 5,
+    "title": "Produit conforme aux attentes",
+    "text": "Produit conforme aux attentes",
+    "author": "Mohamed",
+    "date": "2026-04-21"
+  },
+  {
+    "stars": 5,
+    "title": "Fantastic service and product is outstanding.",
+    "text": "Fantastic service and product is outstanding.",
+    "author": "D Wilson",
+    "date": "2026-03-29"
+  },
+  {
+    "stars": 5,
+    "title": "L’envoi est très rapide et soigné.",
+    "text": "L’envoi est très rapide et soigné. C’est la seconde fois que je commande et je suis très satisfaite de pouvoir accéder à des produits que je ne pourrais pas me payer en temps normal...",
+    "author": "Fany GILLET",
+    "date": "2026-03-25"
+  },
+  {
+    "stars": 4,
+    "title": "Je suis satisfaite des produits de chez...",
+    "text": "Je suis satisfaite des produits de chez capital dommage certains parfums sont en rupture comme Tom Ford par exemple Tobacco vanille je souhaiterai recevoir des échantillons pour ma fidélité merci d’avance",
+    "author": "Benfat",
+    "date": "2026-03-21"
+  },
+  {
+    "stars": 5,
+    "title": "Great Scent for days",
+    "text": "Great product and service",
+    "author": "Brandon",
+    "date": "2026-03-03"
+  },
+  {
+  "stars": 5,
+  "title": "Très bonne expérience",
+  "text": "Très bonne expérience ! Qualité de l'emballage et du produit Je recommande",
+  "author": "mel",
+  "date": "2026-01-26"
+ },
+ {
+  "stars": 5,
+  "title": "parfum authentique",
+  "text": "parfum authentique, permet d'accèder à des parfums d'exception, super concept !",
+  "author": "CHENE LAETITIA",
+  "date": "2026-01-17"
+ },
+ {
+  "stars": 5,
+  "title": "Perfekt",
+  "text": "Alles ist perfekt gewesen! Liegerung, Unterstützung und die Produkte, TOP!",
+  "author": "Selda",
+  "date": "2026-01-16"
+},
+{
+  "stars": 5,
+  "title": "Je suis à la recherche d’un parfum qui...",
+  "text": "Je suis à la recherche d’un parfum qui me correspond le plus alors jai préférer me tourner vers capitoleparfum afin de trouver un parfum à mon goût je suis très satisfait du résultat ... donc merci capitoleparfum 🙏",
+  "author": "CARREFOUR S.A.V. Toufik Benna",
+  "date": "2026-01-09"
+}   
+  ]
+}
