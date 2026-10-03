@@ -2,6 +2,34 @@
   "rating": 4.3,
   "count": 42,
   "reviews": [
+  {
+    "stars": 5,
+    "title": "Commande conforme et produits satisfaisants",
+    "text": "Commande reçue sans problème. Les décants sont conformes à ce que j'attendais et je suis satisfait de mes achats. Je repasserai commande.",
+    "author": "TV",
+    "date": "2026-09-29"
+  },
+  {
+    "stars": 5,
+    "title": "Entreprise sérieuse et passionnée !",
+    "text": "Entreprise sérieuse, humaine et passionnée. J'ai reçu mon décant en un jour livré chez moi. Le parfum était très bien protégé et le flacon est très joli 👍😁 Superbe expérience je recommande !",
+    "author": "Nicolas Tonati",
+    "date": "2026-07-11"
+  },
+  {
+    "stars": 5,
+    "title": "Super découverte. Parfum voyage",
+    "text": "Super découverte ! Je cherchais un petit flacon de mon parfum pour l’emporter en voyage. 10 millilitres c’est parfait\nJ’en ai profité pour essayer un parfum dont j’avais entendu parler\nAu top 👌",
+    "author": "Charles D",
+    "date": "2026-07-08"
+  },
+  {
+    "stars": 5,
+    "title": "J'avais des doutes ...",
+    "text": "J'avais des doutes donc j'ai commander un petit flacon car je suis assez pointilleux sur le parfum et l'odeur, à ma grande surprise positive, j'ai retrouver le même parfum que j'achète chez Dior.\n\nJe recommanderais, et en plus cela arrive rapidement 2 jours.\n\nmerci capitoleParfum gang gang gang.",
+    "author": "Bricemickal",
+    "date": "2026-06-25"
+  },
     {
     "stars": 5,
     "title": "Livraison rapide même si c’est loin...top",
@@ -43,34 +71,6 @@
     "text": "Great product and service",
     "author": "Brandon",
     "date": "2026-03-03"
-  },
-  {
-  "stars": 5,
-  "title": "Très bonne expérience",
-  "text": "Très bonne expérience ! Qualité de l'emballage et du produit Je recommande",
-  "author": "mel",
-  "date": "2026-01-26"
- },
- {
-  "stars": 5,
-  "title": "parfum authentique",
-  "text": "parfum authentique, permet d'accèder à des parfums d'exception, super concept !",
-  "author": "CHENE LAETITIA",
-  "date": "2026-01-17"
- },
- {
-  "stars": 5,
-  "title": "Perfekt",
-  "text": "Alles ist perfekt gewesen! Liegerung, Unterstützung und die Produkte, TOP!",
-  "author": "Selda",
-  "date": "2026-01-16"
-},
-{
-  "stars": 5,
-  "title": "Je suis à la recherche d’un parfum qui...",
-  "text": "Je suis à la recherche d’un parfum qui me correspond le plus alors jai préférer me tourner vers capitoleparfum afin de trouver un parfum à mon goût je suis très satisfait du résultat ... donc merci capitoleparfum 🙏",
-  "author": "CARREFOUR S.A.V. Toufik Benna",
-  "date": "2026-01-09"
-}   
+  }
   ]
 }
